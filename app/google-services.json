@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1088067235842",
+    "firebase_url": "https://kotlin-practice-ecommerce-default-rtdb.firebaseio.com",
+    "project_id": "kotlin-practice-ecommerce",
+    "storage_bucket": "kotlin-practice-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088067235842:android:a29f7324c5570a182c771b",
+        "android_client_info": {
+          "package_name": "com.example.ecommercekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQwhz89L_wZBUQaYFldqOFHfz7JVcLfQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088067235842:android:ef67d6889fd39bfe2c771b",
+        "android_client_info": {
+          "package_name": "com.example.kotlinpracticeecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQwhz89L_wZBUQaYFldqOFHfz7JVcLfQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

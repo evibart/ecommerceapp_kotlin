@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.EcommerceKotlin" parent="Theme.AppCompat.DayNight.NoActionBar" />
+
+    <!-- App theme -->
+    <style name="Theme.EcommerceKotlin" parent="Base.Theme.EcommerceKotlin">
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
